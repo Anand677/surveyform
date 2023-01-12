@@ -1,0 +1,40 @@
+body {
+    
+    background-color: #1b1b32;
+    color: #f5f6f7;
+    font-family: Tahoma;
+    font-size: 16px;
+    
+    
+  }
+  fieldset{
+    border: none;
+    }
+  label{
+    display: block;
+    margin: 1rem 0;
+  }
+  form{ 
+  max-width: 500px;
+
+  margin: 0.5em auto;
+ 
+  }
+  h1,p{
+    text-align: center;
+  }
+  
+  textarea{
+    padding-top: 
+  }
+  input[type="submit"] {
+  
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: #3b3b4f;
+    border-color: white;
+    min-width: 200px;
+    color: #f5f6f7;
+    margin: 1.5em 2em;
+
+  }
